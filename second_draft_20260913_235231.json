@@ -111,6 +111,10 @@
         "file": "draft1_line004_LAURA.mp3",
         "bytes": 78312
       }
-    ]
+    ],
+    "video": {
+      "1": "draft1_combined.mp4"
+    },
+    "video_all": "am28.mp4"
   }
 }
