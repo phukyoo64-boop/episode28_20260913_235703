@@ -1,0 +1,116 @@
+{
+  "timestamp": "20260913_235231",
+  "cast_names": [
+    "Jack",
+    "Young",
+    "Scribe",
+    "Scholar1",
+    "King Michael",
+    "Mother",
+    "Blacksmith",
+    "Bones",
+    "Vex",
+    "Halo",
+    "Ash",
+    "Queen June",
+    "Snake",
+    "Narrator"
+  ],
+  "source": "phukyoo64-boop/28",
+  "drafts": [
+    {
+      "title": "The Ascension of Jack",
+      "reasoning": "The 'I' in the source is an unnamed narrator, not a named character. This chunk involves Jack, Laura, and implicitly references the broader cast. The dramatic conflict revolves around Jack's unexpected transport to a utopian skyscraper and his interaction with Laura, highlighting themes of surrealism and the absurdity of the revolution's circumstances.",
+      "scene": "A surreal desert landscape fades into view, with distant floating metropolises shimmering under a strange, synthetic sky. A hobo Jack, wearing a party cowboy hat, sits on a milk crate, scratching a lottery ticket. Synthetic wind blasts his hat off his head, which rolls away like a tumbleweed. A stealth Uber-Drone uncloaks from the sand, swallows Jack into a prone-position transit pod, and launches him vertically into the stratosphere toward the floating metropolis of NEO-BABYLON. Jack is deposited into a sleek office cubicle of a skyscraper workplace utopia. Laura, a reality-star diva, screams at management, her inbound transit-pod having been routed too close to the automated porta-potty sanitation fleet. A poster of a floating metropolis adorns the wall behind them.",
+      "dialogue": [
+        {
+          "character": "Narrator",
+          "line": "Jack, now seated in a sleek office cubicle of a skyscraper workplace utopia, looks bewildered as Laura, a reality-star diva, screams at management, her inbound transit-pod having been routed too close to the automated porta-potty sanitation fleet.",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        },
+        {
+          "character": "LAURA",
+          "line": "What the high-nass is going on here? My pod was too close to the port-o-potties!",
+          "cast_type": "visiting",
+          "raw_name": "LAURA",
+          "match_score": 0.46
+        },
+        {
+          "character": "Narrator",
+          "line": "A poster of a floating metropolis adorns the wall behind them.",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        },
+        {
+          "character": "LAURA",
+          "line": "And in a way to cement your fine legacy with AI? Uh, cover me buddy with your pilot... P-Pirate Radio Broadcast? Don't look at me old witch. Cover me?",
+          "cast_type": "visiting",
+          "raw_name": "LAURA",
+          "match_score": 0.46
+        }
+      ],
+      "rank": 1,
+      "source_file": "chunk_01",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 4,
+      "speakers": [
+        "LAURA",
+        "Narrator"
+      ]
+    }
+  ],
+  "voices": {
+    "generated_at": "20260913_235703",
+    "source_draft_repo": "phukyoo64-boop/2nddraft20260913_235231",
+    "source_draft_json": "second_draft_20260913_235231.json",
+    "source_draft_sha": "56443dcba45af858aae27377ec728d240f1ce3d7",
+    "source_voice_repo": "phukyoo64-boop/28",
+    "source_zip": "characters.zip",
+    "char_map": {
+      "LAURA": "Angel",
+      "Narrator": "Narrator"
+    },
+    "lines": [
+      {
+        "draft": 1,
+        "n": 1,
+        "character": "Narrator",
+        "voice_dir": "Narrator",
+        "line": "Jack, now seated in a sleek office cubicle of a skyscraper workplace utopia, looks bewildered as Laura, a reality-star diva, screams at management, her inbound transit-pod having been routed too close to the automated porta-potty sanitation fleet.",
+        "file": "draft1_line001_Narrator.mp3",
+        "bytes": 113472
+      },
+      {
+        "draft": 1,
+        "n": 2,
+        "character": "LAURA",
+        "voice_dir": "Angel",
+        "line": "What the high-nass is going on here? My pod was too close to the port-o-potties!",
+        "file": "draft1_line002_LAURA.mp3",
+        "bytes": 45648
+      },
+      {
+        "draft": 1,
+        "n": 3,
+        "character": "Narrator",
+        "voice_dir": "Narrator",
+        "line": "A poster of a floating metropolis adorns the wall behind them.",
+        "file": "draft1_line003_Narrator.mp3",
+        "bytes": 31080
+      },
+      {
+        "draft": 1,
+        "n": 4,
+        "character": "LAURA",
+        "voice_dir": "Angel",
+        "line": "And in a way to cement your fine legacy with AI? Uh, cover me buddy with your pilot... P-Pirate Radio Broadcast? Don't look at me old witch. Cover me?",
+        "file": "draft1_line004_LAURA.mp3",
+        "bytes": 78312
+      }
+    ]
+  }
+}
